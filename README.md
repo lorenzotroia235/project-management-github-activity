@@ -23,6 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we want to know next**
 1.  Syntastically Awesome Style Sheets (SASS)
 2.  Using Kubernetes to deploy application software
+3.  Create and run a container in Docker
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
